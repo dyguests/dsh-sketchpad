@@ -50,8 +50,7 @@
       "platform": "web",
       "external": [
         "react",
-        "react-dom",
-        "@deepseek-ai/dsh-client-ui-primitives"
+        "react-dom"
       ]
     }
   },

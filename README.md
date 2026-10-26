@@ -8,13 +8,15 @@ A drawing board for [DeepSeek Harness](https://github.com/deepseek-ai/dsh). Hand
 
 ## Features
 
-- **Floating board** — pencil button at the left of the composer; 1600×1000 landscape. `Esc`, the `×`, a backdrop click or a double-click closes it, and closing attaches the drawing.
+- **Entry points** — the **Sketchpad** row in the composer's `+` menu (also `/sketchpad`), and the right-sidebar tab.
+- **Floating board** — 1600×1000 landscape. `Esc`, the `×`, a backdrop click or a double-click closes it, and closing attaches the drawing.
 - **Sidebar board** — a portrait 1000×1333 right-sidebar tab with its own strokes and attachment.
 - **Only explicit saves** — nothing is encoded while drawing; the PNG is made only when you close the floating board or press **Insert**.
 - **Cropped export** — cut to the ink bounding box plus 26 px; small sketches are upscaled up to 2.5× (about 900 px on the long side).
 - **Tools** — pen, line, arrow, eraser with a round cursor; widths 4 / 7 / 12 px; black, red and blue; `Shift` snaps to 0°/45°/90°.
 - **Undo, immediate clear, one pointer** — a second finger cannot join the current stroke.
 - **Shortcuts** — `B` `L` `A` `E`, `[` `]`, `Ctrl/Cmd+Z`, `Esc`.
+- **Chinese and English** — UI copy follows the host language (reads `<html lang>`).
 
 ## Install
 
