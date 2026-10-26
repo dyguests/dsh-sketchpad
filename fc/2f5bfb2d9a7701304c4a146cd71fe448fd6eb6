@@ -1,0 +1,14 @@
+lib/client.js
+  h_3553f4e32d4a9f 202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fc2f5bfb2d9a7701304c4a146cd71fe448fd6eb6",
+  "prompts": {},
+  "humans": {
+    "h_3553f4e32d4a9f": {
+      "author": "fanhl <dyguests@qq.com>"
+    }
+  }
+}
